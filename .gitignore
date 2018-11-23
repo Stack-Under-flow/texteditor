@@ -48,3 +48,16 @@ fabric.properties
 # *.ipr
 
 # End of https://www.gitignore.io/api/intellij
+
+### NetBeans ###
+**/nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+nbproject/
+.nb-gradle/
+build.xml
+manifest.mf
+
+# End of https://www.gitignore.io/api/netbeans
